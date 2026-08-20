@@ -1,0 +1,6 @@
+.venv/
+bin/
+__pycache__/
+.env
+cookies/xiaohongshu.txt
+cookies/douyin.txt
